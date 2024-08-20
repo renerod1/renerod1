@@ -3,7 +3,7 @@ plotly==5.22.0
 PyGithub==2.3.0
 python-dotenv==1.0.1
 Requests==2.32.3
-kaleido
+kaleido==0.1.0post1
 imageio
 pillow
 wordcloud
