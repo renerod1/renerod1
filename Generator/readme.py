@@ -93,7 +93,8 @@ def format_pr_info(prs):
 def update_readme():
     excluded_libraries = load_environment()
     repo_data = load_repo_data()
-    total_lines_of_code, total_libraries_used, total_python_files, top_libraries, libraries, counts = calculate_library_metrics(
+    # total_lines_of_code, total_libraries_used, total_python_files, top_libraries, libraries, counts = calculate_library_metrics(
+    total_lines_of_code, total_libraries_used, total_python_files = calculate_library_metrics(
         repo_data, excluded_libraries
     )
 
@@ -127,10 +128,10 @@ def update_readme():
         f"### Data last generated on: {timestamp} via [GitHub Action {GITHUB_RUN_ID}](https://github.com/renerod1/renerod1/actions/runs/{GITHUB_RUN_ID})\n\n"
         f"{recent_commits_section}",
         f"{recent_prs_section}",
-        f"# 📊 Python Stats:\n\n",
-        f"{total_lines_of_code}",
-        f"{total_libraries_used}",
-        f"{total_python_files_section}",
+        # f"# 📊 Python Stats:\n\n",
+        # f"{total_lines_of_code}",
+        # f"{total_libraries_used}",
+        # f"{total_python_files_section}",
         f"![](DataVisuals/data.gif)\n\n",
     ]
 
