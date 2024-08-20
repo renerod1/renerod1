@@ -3,7 +3,8 @@ plotly==5.22.0
 PyGithub==2.3.0
 python-dotenv==1.0.1
 Requests==2.32.3
-kaleido==0.1.0post1
+# kaleido==0.1.0post1 # use this verion for windows 10/11
+kaleido
 imageio
 pillow
 wordcloud
