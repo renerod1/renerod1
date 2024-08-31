@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=renerod1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=renerod1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renerod1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=renerod1)
+![](https://github-readme-stats.vercel.app/api?username=renerod1&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&exclude_repo=renerod1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renerod1&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&exclude_repo=renerod1&langs_count=20)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=renerod1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=renerod1&no-bg=true&no-frame=true)
 
 ---
 
