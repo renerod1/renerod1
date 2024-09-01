@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-09-01 via [GitHub Action 10650706721](https://github.com/renerod1/renerod1/actions/runs/10650706721)
+### Data last generated on: 2024-09-01 via [GitHub Action 10651548402](https://github.com/renerod1/renerod1/actions/runs/10651548402)
 
 ## 🚀 Recent Commits
 
-- **Codewars - [Add files via upload](https://github.com/renerod1/Codewars/commit/a48974c2168fcab2c7d6c90d35a425e10e0d63b5)**
-  - Additions: 1 - Deletions: 0 - Total Changes: 1
+- **first-2d-game-godot-4 - [Update .gitattributes](https://github.com/renerod1/first-2d-game-godot-4/commit/72ec4e1127f65c35b39c6fbed914b83ef69957b4)**
+  - Additions: 32 - Deletions: 1 - Total Changes: 33
 
-- **AdventOfCode - [Add files via upload](https://github.com/renerod1/AdventOfCode/commit/dc86a0c5712da93c39f0a4b4ef2b55af1f532470)**
-  - Additions: 1 - Deletions: 0 - Total Changes: 1
+- **AdventOfCode - [Create Java.gitattributes](https://github.com/renerod1/AdventOfCode/commit/ce7648217f4e5b766301b8eb5e657722d0cbbee4)**
+  - Additions: 40 - Deletions: 0 - Total Changes: 40
 
-- **first-2d-game-godot-4 - [Create .gitattributes](https://github.com/renerod1/first-2d-game-godot-4/commit/d0da160a67099b0e798a7951a454e52a1b2a5e9b)**
-  - Additions: 1 - Deletions: 0 - Total Changes: 1
+- **AdventOfCode - [Update .gitattributes](https://github.com/renerod1/AdventOfCode/commit/3c9fc6f7395531719331f15c3625f745542acea1)**
+  - Additions: 32 - Deletions: 1 - Total Changes: 33
 
 
 ![](DataVisuals/data.gif)
