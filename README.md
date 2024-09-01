@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-08-20 via [GitHub Action 10465756338](https://github.com/renerod1/renerod1/actions/runs/10465756338)
+### Data last generated on: 2024-08-31 via [GitHub Action 10647670356](https://github.com/renerod1/renerod1/actions/runs/10647670356)
 
 ## 🚀 Recent Commits
 
-- **LeetCode - [LeetCode 49](https://github.com/renerod1/LeetCode/commit/93a9c32547f1967084202a09ed1b26e463866d30)**
-  - Additions: 145 - Deletions: 0 - Total Changes: 145
+- **LeetCode - [Migrated to JUnit 5](https://github.com/renerod1/LeetCode/commit/bfaba688d97c9bd54c1698c2c044bdde7e66373c)**
+  - Additions: 139 - Deletions: 38 - Total Changes: 177
 
-- **LeetCode - [LeetCode 3210](https://github.com/renerod1/LeetCode/commit/8093d8e37bcf8ae94b0e9a40ff29cd73dd1ddc58)**
-  - Additions: 120 - Deletions: 0 - Total Changes: 120
+- **LeetCode - [Upgraded junit:junit to version 4.13.1 or later.](https://github.com/renerod1/LeetCode/commit/26954b56cf8cfd1df025a6d843ebbff8705051df)**
+  - Additions: 5 - Deletions: 5 - Total Changes: 10
 
-- **LeetCode - [Renamed some SQL problems](https://github.com/renerod1/LeetCode/commit/b453c66717f8b233739e47b7fabf125d2cacc508)**
-  - Additions: 1 - Deletions: 1 - Total Changes: 2
+- **Codewars - [Some Codewars](https://github.com/renerod1/Codewars/commit/a8785ef1110372d6e3bd30ccd57f9a3c30967eba)**
+  - Additions: 32 - Deletions: 1 - Total Changes: 33
 
 
 ![](DataVisuals/data.gif)
