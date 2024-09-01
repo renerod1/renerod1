@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=renerod1&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&exclude_repo=renerod1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renerod1&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&exclude_repo=renerod1&langs_count=20)
+![](https://github-readme-stats.vercel.app/api/?username=renerod1&hide_border=true&theme=transparent&show_icons=true&exclude_repo=renerod1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renerod1&hide_border=true&theme=transparent&layout=compact&exclude_repo=renerod1&repo=leetcode)
 
 ## 🏆 GitHub Trophies
 
