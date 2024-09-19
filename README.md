@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=renerod1&no-bg=true&no-frame=true)
 
----
+![](https://skillicons.dev/icons?i=java,ts,godot,scss,kotlin,html,postgresql)
 
+---
 
 ### Data last generated on: 2024-09-03 via [GitHub Action 10675826561](https://github.com/renerod1/renerod1/actions/runs/10675826561)
 
@@ -40,6 +41,4 @@ Here are some ideas to get you started:
 - **AdventOfCode - [Update .gitattributes](https://github.com/renerod1/AdventOfCode/commit/3c9fc6f7395531719331f15c3625f745542acea1)**
   - Additions: 32 - Deletions: 1 - Total Changes: 33
 
-
 ![](DataVisuals/data.gif)
-
