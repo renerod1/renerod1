@@ -8,7 +8,7 @@ config.read('config.ini')
 # Get the environment variable
 github_user_name = 'renerod1'
 gif_frame_duration = '7500'
-generate_merged_prs = true
+generate_merged_prs = 'True'
 
 # Override the variable in the config file
 config.set('Settings', 'gif_frame_duration', gif_frame_duration)
