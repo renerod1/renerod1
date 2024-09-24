@@ -95,9 +95,7 @@ def update_readme():
     excluded_libraries = load_environment()
     repo_data = load_repo_data()
     # total_lines_of_code, total_libraries_used, total_python_files, top_libraries, libraries, counts = calculate_library_metrics(
-    total_lines_of_code, total_libraries_used, total_python_files = calculate_library_metrics(
-        repo_data, excluded_libraries
-    )
+    total_lines_of_code, total_libraries_used, total_python_files = calculate_library_metrics(repo_data, excluded_libraries)
 
     readme_file = "README.md"
     timestamp = datetime.now().strftime("%Y-%m-%d")

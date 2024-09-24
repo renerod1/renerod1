@@ -23,8 +23,8 @@ for repo in repo_data["repo_stats"]:
             library_counts[library] += 1
 
 # Get top 15 libraries
-top_libraries = library_counts.most_common(15)
-libraries, counts = zip(*top_libraries)
+# top_libraries = library_counts.most_common(15)
+# libraries, counts = zip(*top_libraries)
 
 # Define colors for the bar chart
 colors = [
@@ -46,30 +46,30 @@ colors = [
 ]
 
 # Create figure for top 15 libraries
-fig = go.Figure(
-    data=[
-        go.Bar(
-            x=libraries,
-            y=counts,
-            text=counts,
-            textposition="auto",
-            marker_color=colors,
-            textfont=dict(size=18, weight="bold"),
-        )
-    ]
-)
+# fig = go.Figure(
+#     data=[
+#         go.Bar(
+#             x=libraries,
+#             y=counts,
+#             text=counts,
+#             textposition="auto",
+#             marker_color=colors,
+#             textfont=dict(size=18, weight="bold"),
+#         )
+#     ]
+# )
 
-fig.update_layout(
-    title="Top 15 Libraries Used Across Repositories",
-    yaxis_title="Count",
-    xaxis_tickangle=-45,
-    font=dict(family="Arial, sans-serif", size=14, color="rgb(255, 255, 255)"),
-    plot_bgcolor="#22272E",
-    paper_bgcolor="#22272E",
-    margin=dict(l=40, r=40, t=60, b=100),
-    hovermode="x unified",
-    yaxis=dict(showticklabels=False, ticks="", showgrid=False, zeroline=False),
-)
+# fig.update_layout(
+#     title="Top 15 Libraries Used Across Repositories",
+#     yaxis_title="Count",
+#     xaxis_tickangle=-45,
+#     font=dict(family="Arial, sans-serif", size=14, color="rgb(255, 255, 255)"),
+#     plot_bgcolor="#22272E",
+#     paper_bgcolor="#22272E",
+#     margin=dict(l=40, r=40, t=60, b=100),
+#     hovermode="x unified",
+#     yaxis=dict(showticklabels=False, ticks="", showgrid=False, zeroline=False),
+# )
 
 
 if GENERATE:
