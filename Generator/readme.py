@@ -55,10 +55,6 @@ def calculate_library_metrics(repo_data, excluded_libraries):
                               for repo in repo_data["repo_stats"])
     total_libraries_used = len(libraries_used)
 
-    # top_libraries = library_counts.most_common(15)
-    # libraries, counts = zip(*top_libraries)
-
-    # return total_lines_of_code, total_libraries_used, total_python_files, top_libraries, libraries, counts
     return total_lines_of_code, total_libraries_used, total_python_files
 
 
@@ -94,7 +90,6 @@ def format_pr_info(prs):
 def update_readme():
     excluded_libraries = load_environment()
     repo_data = load_repo_data()
-    # total_lines_of_code, total_libraries_used, total_python_files, top_libraries, libraries, counts = calculate_library_metrics(
     total_lines_of_code, total_libraries_used, total_python_files = calculate_library_metrics(repo_data, excluded_libraries)
 
     readme_file = "README.md"

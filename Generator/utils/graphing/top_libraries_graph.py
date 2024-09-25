@@ -71,7 +71,6 @@ colors = [
 #     yaxis=dict(showticklabels=False, ticks="", showgrid=False, zeroline=False),
 # )
 
-
 if GENERATE:
     fig.write_image("DataVisuals/top_libraries.png", width=1200, height=800)
     print("Top libraries graph generated successfully.")
