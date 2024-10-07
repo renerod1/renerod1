@@ -31,7 +31,7 @@ jobs:
 
       - name: Update_config.py and Run data_scrape.py
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_RUN_ID: ${{ github.run_id }}
         run: python Generator/utils/data_scrape.py
 
@@ -53,7 +53,7 @@ jobs:
 
       - name: Adjust Readme
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python Generator/readme.py
 
       - name: Commit files
@@ -66,5 +66,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0
         with:
-          github_token: ${{ secrets.TOKEN }}
-          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

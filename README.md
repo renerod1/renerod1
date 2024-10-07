@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-09-30 via [GitHub Action 11102694534](https://github.com/renerod1/renerod1/actions/runs/11102694534)
+### Data last generated on: 2024-10-07 via [GitHub Action None](https://github.com/renerod1/renerod1/actions/runs/None)
 
 ## 🚀 Recent Commits
 
-- **midjourney-image-previewer - [Update vite.config.ts](https://github.com/renerod1/midjourney-image-previewer/commit/97a953545019ebcecbaa8012a070d5df2f0d738d)**
-  - Additions: 1 - Deletions: 1 - Total Changes: 2
+- **midjourney-image-previewer - [Merge pull request #10 from renerod1/cards  feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/bfd07ed5fe20563a11763b4573dcbdfc8987fdef)**
+  - Additions: 28 - Deletions: 17 - Total Changes: 45
 
-- **midjourney-image-previewer - [Merge pull request #3 from renerod1/add-antd  build: added Ant Design](https://github.com/renerod1/midjourney-image-previewer/commit/a49be268596cf18f3a0e08d951520e051960f880)**
-  - Additions: 501 - Deletions: 168 - Total Changes: 669
+- **midjourney-image-previewer - [feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/5580eddba0bff8364ffa4ae84443283ef6c55942)**
+  - Additions: 28 - Deletions: 17 - Total Changes: 45
 
-- **midjourney-image-previewer - [build: added Ant Design](https://github.com/renerod1/midjourney-image-previewer/commit/19de53e03a7dc5774888fcb70c16eb8fc64e9c19)**
-  - Additions: 501 - Deletions: 168 - Total Changes: 669
+- **midjourney-image-previewer - [Merge pull request #9 from renerod1/renerod1-patch-4  fix: improved performance and fix some UI bugs](https://github.com/renerod1/midjourney-image-previewer/commit/676a2b6dc7fc7386f6ad0d66d0e656c7c56b8b0b)**
+  - Additions: 60 - Deletions: 162 - Total Changes: 222
 
 
 ## 🔀 Recently Merged Pull Requests
