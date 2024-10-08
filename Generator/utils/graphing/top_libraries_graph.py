@@ -72,7 +72,7 @@ colors = [
 # )
 
 if GENERATE:
-    fig.write_image("DataVisuals/top_libraries.png", width=1200, height=800)
+    # fig.write_image("DataVisuals/top_libraries.png", width=1200, height=800)
     print("Top libraries graph generated successfully.")
 else:
     print("Top libraries graph not generated.")
