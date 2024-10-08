@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-10-07 via [GitHub Action 11211798293](https://github.com/renerod1/renerod1/actions/runs/11211798293)
+### Data last generated on: 2024-10-08 via [GitHub Action 11229656560](https://github.com/renerod1/renerod1/actions/runs/11229656560)
 
 ## 🚀 Recent Commits
+
+- **midjourney-image-previewer - [docs(readme.md): finally updated the README](https://github.com/renerod1/midjourney-image-previewer/commit/79776303b76ad7c8015cd8f1eec3eef1d0af48c7)**
+  - Additions: 39 - Deletions: 9 - Total Changes: 48
 
 - **midjourney-image-previewer - [Merge pull request #10 from renerod1/cards  feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/bfd07ed5fe20563a11763b4573dcbdfc8987fdef)**
   - Additions: 28 - Deletions: 17 - Total Changes: 45
 
 - **midjourney-image-previewer - [feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/5580eddba0bff8364ffa4ae84443283ef6c55942)**
   - Additions: 28 - Deletions: 17 - Total Changes: 45
-
-- **midjourney-image-previewer - [Merge pull request #9 from renerod1/renerod1-patch-4  fix: improved performance and fix some UI bugs](https://github.com/renerod1/midjourney-image-previewer/commit/676a2b6dc7fc7386f6ad0d66d0e656c7c56b8b0b)**
-  - Additions: 60 - Deletions: 162 - Total Changes: 222
 
 
 ## 🔀 Recently Merged Pull Requests
