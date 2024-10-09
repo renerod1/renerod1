@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-10-08 via [GitHub Action 11234864486](https://github.com/renerod1/renerod1/actions/runs/11234864486)
+### Data last generated on: 2024-10-09 via [GitHub Action 11248479175](https://github.com/renerod1/renerod1/actions/runs/11248479175)
 
 ## 🚀 Recent Commits
 
+- **midjourney-image-previewer - [Merge pull request #12 from renerod1/11-submit-button-does-not-work-on-first-click  fix(midjourney): fixed onClick of the Submit button](https://github.com/renerod1/midjourney-image-previewer/commit/1b397ec0f7d64533b39d72865479d6416f648383)**
+  - Additions: 3 - Deletions: 1 - Total Changes: 4
+
+- **midjourney-image-previewer - [fix(midjourney): fixed onClick of the Submit button not properly firing on the first click](https://github.com/renerod1/midjourney-image-previewer/commit/046bd4ddd6910e2690965a88ae996e9504f2eddf)**
+  - Additions: 3 - Deletions: 1 - Total Changes: 4
+
 - **midjourney-image-previewer - [docs(readme.md): finally updated the README](https://github.com/renerod1/midjourney-image-previewer/commit/79776303b76ad7c8015cd8f1eec3eef1d0af48c7)**
   - Additions: 39 - Deletions: 9 - Total Changes: 48
-
-- **midjourney-image-previewer - [Merge pull request #10 from renerod1/cards  feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/bfd07ed5fe20563a11763b4573dcbdfc8987fdef)**
-  - Additions: 28 - Deletions: 17 - Total Changes: 45
-
-- **midjourney-image-previewer - [feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/commit/5580eddba0bff8364ffa4ae84443283ef6c55942)**
-  - Additions: 28 - Deletions: 17 - Total Changes: 45
 
 
 ## 🔀 Recently Merged Pull Requests
