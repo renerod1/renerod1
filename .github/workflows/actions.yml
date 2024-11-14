@@ -56,7 +56,7 @@ jobs:
 
       - name: Add GITHUB_TOKEN to .env file
         run: |
-          echo "GITHUB_TOKEN=${{ secrets.TOKEN }}" >> ./ProfileDataGen/src/environments/.env
+          echo "GITHUB_TOKEN=${{ secrets.TOKEN }}" >> ./src/environments/.env
 
       - name: Run Script
         run: pnpm start
