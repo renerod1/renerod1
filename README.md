@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-10-13 via [GitHub Action 11311000708](https://github.com/renerod1/renerod1/actions/runs/11311000708)
+### Data last generated on: 2024-11-15 via [GitHub Action None](https://github.com/renerod1/renerod1/actions/runs/None)
 
 ## 🚀 Recent Commits
 
-- **midjourney-image-previewer - [Merge pull request #12 from renerod1/11-submit-button-does-not-work-on-first-click  fix(midjourney): fixed onClick of the Submit button](https://github.com/renerod1/midjourney-image-previewer/commit/1b397ec0f7d64533b39d72865479d6416f648383)**
-  - Additions: 3 - Deletions: 1 - Total Changes: 4
+- **profile-data-gen - [feat: added animated gif from the png files, and changed image dimensions to come from env file](https://github.com/renerod1/profile-data-gen/commit/a30f0d56b29c4b928bbb8c015344bf73e02b3d84)**
+  - Additions: 99 - Deletions: 8 - Total Changes: 107
 
-- **midjourney-image-previewer - [fix(midjourney): fixed onClick of the Submit button not properly firing on the first click](https://github.com/renerod1/midjourney-image-previewer/commit/046bd4ddd6910e2690965a88ae996e9504f2eddf)**
-  - Additions: 3 - Deletions: 1 - Total Changes: 4
+- **profile-data-gen - [Update actions.yml](https://github.com/renerod1/profile-data-gen/commit/d4dd2cd76ec488ba834c277c6cbd43813c784763)**
+  - Additions: 12 - Deletions: 2 - Total Changes: 14
 
-- **midjourney-image-previewer - [docs(readme.md): finally updated the README](https://github.com/renerod1/midjourney-image-previewer/commit/79776303b76ad7c8015cd8f1eec3eef1d0af48c7)**
-  - Additions: 39 - Deletions: 9 - Total Changes: 48
+- **profile-data-gen - [refactor: another file structure re-org and minor change to actions.yml  After some testing I learned that I did not have to re-org my file structure so I decided to restore it to the original.  I also made a couple of tweaks to actions.yml to reflect the restore structure.](https://github.com/renerod1/profile-data-gen/commit/41a1227036efeb2d1c16b8a81c584a2a4e3f740f)**
+  - Additions: 30 - Deletions: 58 - Total Changes: 88
 
 
 ## 🔀 Recently Merged Pull Requests
