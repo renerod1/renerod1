@@ -28,18 +28,18 @@ Here are some ideas to get you started:
 ---
 
 
-### Data last generated on: 2024-11-15 via [GitHub Action None](https://github.com/renerod1/renerod1/actions/runs/None)
+### Data last generated on: 2024-11-21 via [GitHub Action None](https://github.com/renerod1/renerod1/actions/runs/None)
 
 ## 🚀 Recent Commits
 
+- **profile-data-gen - [refactor: refactored some GraphQL stuff to make it more robust going forward](https://github.com/renerod1/profile-data-gen/commit/3aa24a26ca514b4831df3ba807a240a159970d44)**
+  - Additions: 2974 - Deletions: 1037 - Total Changes: 4011
+
+- **profile-data-gen - [fix(commitheatmap): heatmap was previously in Zulu time.  Now it honors the specified TimeZone](https://github.com/renerod1/profile-data-gen/commit/0ad31255c0ee80558c57f02b7ef0740c7f5c0942)**
+  - Additions: 1046 - Deletions: 2915 - Total Changes: 3961
+
 - **profile-data-gen - [feat: added animated gif from the png files, and changed image dimensions to come from env file](https://github.com/renerod1/profile-data-gen/commit/a30f0d56b29c4b928bbb8c015344bf73e02b3d84)**
   - Additions: 99 - Deletions: 8 - Total Changes: 107
-
-- **profile-data-gen - [Update actions.yml](https://github.com/renerod1/profile-data-gen/commit/d4dd2cd76ec488ba834c277c6cbd43813c784763)**
-  - Additions: 12 - Deletions: 2 - Total Changes: 14
-
-- **profile-data-gen - [refactor: another file structure re-org and minor change to actions.yml  After some testing I learned that I did not have to re-org my file structure so I decided to restore it to the original.  I also made a couple of tweaks to actions.yml to reflect the restore structure.](https://github.com/renerod1/profile-data-gen/commit/41a1227036efeb2d1c16b8a81c584a2a4e3f740f)**
-  - Additions: 30 - Deletions: 58 - Total Changes: 88
 
 
 ## 🔀 Recently Merged Pull Requests
