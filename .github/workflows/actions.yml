@@ -72,7 +72,7 @@ jobs:
       - name: Commit files
         run: |
           git add ./DataVisuals/.
-          git add ../README.md
+          git add ./README.md
           git diff-index --quiet HEAD || git commit -m "Updated data" --allow-empty
 
       - name: Push changes
