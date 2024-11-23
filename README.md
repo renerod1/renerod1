@@ -27,23 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-
-### Data last generated on: 2024-11-21 via [GitHub Action None](https://github.com/renerod1/renerod1/actions/runs/None)
-
-## 🚀 Recent Commits
-
-- **profile-data-gen - [refactor: refactored some GraphQL stuff to make it more robust going forward](https://github.com/renerod1/profile-data-gen/commit/3aa24a26ca514b4831df3ba807a240a159970d44)**
-  - Additions: 2974 - Deletions: 1037 - Total Changes: 4011
-
-- **profile-data-gen - [fix(commitheatmap): heatmap was previously in Zulu time.  Now it honors the specified TimeZone](https://github.com/renerod1/profile-data-gen/commit/0ad31255c0ee80558c57f02b7ef0740c7f5c0942)**
-  - Additions: 1046 - Deletions: 2915 - Total Changes: 3961
-
-- **profile-data-gen - [feat: added animated gif from the png files, and changed image dimensions to come from env file](https://github.com/renerod1/profile-data-gen/commit/a30f0d56b29c4b928bbb8c015344bf73e02b3d84)**
-  - Additions: 99 - Deletions: 8 - Total Changes: 107
-
-
-## 🔀 Recently Merged Pull Requests
-
+### Data last generated on: 2024-11-23 via [GitHub Action 11990687413](https://github.com/renerod1/renerod1/actions/runs/11990687413)
 
 ![](DataVisuals/data.gif)
 
