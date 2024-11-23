@@ -58,16 +58,16 @@ jobs:
         run: |
           echo "GITHUB_TOKEN=${{ secrets.TOKEN }}" >> ./src/environments/.env
 
-      - name: Turn on debug mode
-        run: |
-          echo "DEBUG_MODE=true" >> ./src/environments/.env
+      # - name: Turn on debug mode
+      #   run: |
+      #     echo "DEBUG_MODE=true" >> ./src/environments/.env
 
       - name: Run Script
         run: pnpm start
 
       - name: Move README.md file
         run: |
-          cp ./Profile/README.md ../
+          cp ./Profile/README.md ./README.md
         
       - name: Remove profile-data-gen
         run: |
