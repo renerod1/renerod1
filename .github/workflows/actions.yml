@@ -63,7 +63,7 @@ jobs:
 
       - name: Move README.md file
         run: |
-          mv ./Profile/README.md ../
+          cp ./Profile/README.md ../
         
       - name: Remove profile-data-gen
         run: |
@@ -72,6 +72,7 @@ jobs:
       - name: Commit files
         run: |
           git add ./DataVisuals/.
+          git add ./Profile/.
           git add ./README.md
           git diff-index --quiet HEAD || git commit -m "Updated data" --allow-empty
 
