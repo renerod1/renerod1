@@ -27,8 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-11-24 via [GitHub Action 11995095746](https://github.com/renerod1/renerod1/actions/runs/11995095746)
+### Data last generated on: 2024-11-25 via [GitHub Action 12016684690](https://github.com/renerod1/renerod1/actions/runs/12016684690)
 
+
+## 🚀 Recent Commits
+
+- **profile-data-gen - [feat: added recent commit section](https://github.com/renerod1/profile-data-gen/commit/5355c310844204aa4bc1b0900a3d602aedbe53ad)**
+   - Additions: 39 - Deletions: 4 - Total Changes: 43
+
+- **profile-data-gen - [fix: added missing header for Recently Merged Pull Requests Section](https://github.com/renerod1/profile-data-gen/commit/b30006d2cac4e712910c7cb4dbfa4dc1c903ef31)**
+   - Additions: 1 - Deletions: 1 - Total Changes: 2
+
+- **profile-data-gen - [feat: added merged pull request and completed some refactoring](https://github.com/renerod1/profile-data-gen/commit/8ab0d33a5249bad84c01a8cfadf7654383b3ae86)**
+   - Additions: 212 - Deletions: 14 - Total Changes: 226
 
 ## 🔀 Recently Merged Pull Requests
 
@@ -41,14 +52,6 @@ Here are some ideas to get you started:
    - Stars: 0
 
 - **[fix: improved performance and fix some UI bugs](https://github.com/renerod1/midjourney-image-previewer/pull/9)**
-   - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
-   - Stars: 0
-
-- **[build: updated some packages](https://github.com/renerod1/midjourney-image-previewer/pull/8)**
-   - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
-   - Stars: 0
-
-- **[feat(previewer): created previewer page](https://github.com/renerod1/midjourney-image-previewer/pull/7)**
    - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
    - Stars: 0
 
