@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-11-26 via [GitHub Action 12022532975](https://github.com/renerod1/renerod1/actions/runs/12022532975)
+### Data last generated on: 2024-11-26 via [GitHub Action 12026543672](https://github.com/renerod1/renerod1/actions/runs/12026543672)
 
 
 ## 🚀 Recent Commits
 
-- **profile-data-gen - [feat: added recent commit section](https://github.com/renerod1/profile-data-gen/commit/5355c310844204aa4bc1b0900a3d602aedbe53ad)**
-   - Additions: 39 - Deletions: 4 - Total Changes: 43
+- **profile-data-gen - [refactor: some minor code cleanup](https://github.com/renerod1/profile-data-gen/commit/103aa6aaacf48d4b1a42848004bf7633fe4e9250)**
+   - Additions: 22 - Deletions: 33 - Total Changes: 55
 
-- **profile-data-gen - [fix: added missing header for Recently Merged Pull Requests Section](https://github.com/renerod1/profile-data-gen/commit/b30006d2cac4e712910c7cb4dbfa4dc1c903ef31)**
-   - Additions: 1 - Deletions: 1 - Total Changes: 2
+- **profile-data-gen - [refactor: streamlined getRepositoryCommits.graphql](https://github.com/renerod1/profile-data-gen/commit/d7bd867a626197b397f1110d8a6f7d15b761fe22)**
+   - Additions: 50 - Deletions: 62 - Total Changes: 112
 
-- **profile-data-gen - [feat: added merged pull request and completed some refactoring](https://github.com/renerod1/profile-data-gen/commit/8ab0d33a5249bad84c01a8cfadf7654383b3ae86)**
-   - Additions: 212 - Deletions: 14 - Total Changes: 226
+- **profile-data-gen - [feat: added filter to not used archived repos](https://github.com/renerod1/profile-data-gen/commit/ca231964382619b6dd7d08f3fc15d389d83b6625)**
+   - Additions: 6 - Deletions: 2 - Total Changes: 8
 
 ## 🔀 Recently Merged Pull Requests
 
