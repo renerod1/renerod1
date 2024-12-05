@@ -78,10 +78,13 @@ jobs:
         run: |
           rm -rf profile-data-gen
 
+      - name: Remove Profile folder
+        run: |
+          rm -rf Profile
+
       - name: Commit files
         run: |
           git add ./DataVisuals/.
-          git add ./Profile/.
           git add ./README.md
           git diff-index --quiet HEAD || git commit -m "Updated data" --allow-empty
 
