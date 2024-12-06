@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-06 via [GitHub Action 12194738574](https://github.com/renerod1/renerod1/actions/runs/12194738574)
+### Data last generated on: 2024-12-06 via [GitHub Action 12195082602](https://github.com/renerod1/renerod1/actions/runs/12195082602)
 
 
 ## 🚀 Recent Commits
 
-- **profile-data-gen - [Updated data](https://github.com/renerod1/profile-data-gen/commit/5893785202b908789460f4c3b4414b02a3ce92c3)**
-   - Additions: 58 - Deletions: 2 - Total Changes: 60
+- **profile-data-gen - [fix: moved the workflow files to a seperate folder so they would not trigger during updates](https://github.com/renerod1/profile-data-gen/commit/9af4e3ba97114011eef808a0dfdc48a21e0e861c)**
+   - Additions: 0 - Deletions: 0 - Total Changes: 0
 
 - **profile-data-gen - [refactor: needed to 'rebuild' the graphQL interfaces](https://github.com/renerod1/profile-data-gen/commit/ddd23ae1c9cc322bfd8e898699fbe8b013e34cbc)**
    - Additions: 232 - Deletions: 216 - Total Changes: 448
