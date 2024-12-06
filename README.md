@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-05 via [GitHub Action 12174514193](https://github.com/renerod1/renerod1/actions/runs/12174514193)
+### Data last generated on: 2024-12-06 via [GitHub Action 12194738574](https://github.com/renerod1/renerod1/actions/runs/12194738574)
 
 
 ## 🚀 Recent Commits
 
-- **AdventOfCode - [Update trigger.yml](https://github.com/renerod1/AdventOfCode/commit/461b506ccbd7d3ec1ab0f6e39fdb47c602811486)**
-   - Additions: 2 - Deletions: 2 - Total Changes: 4
+- **profile-data-gen - [Updated data](https://github.com/renerod1/profile-data-gen/commit/5893785202b908789460f4c3b4414b02a3ce92c3)**
+   - Additions: 58 - Deletions: 2 - Total Changes: 60
 
-- **AdventOfCode - [Update trigger.yml](https://github.com/renerod1/AdventOfCode/commit/225b4b6bb0dd920567e482ca506a8381b4d395ae)**
-   - Additions: 2 - Deletions: 2 - Total Changes: 4
+- **profile-data-gen - [refactor: needed to 'rebuild' the graphQL interfaces](https://github.com/renerod1/profile-data-gen/commit/ddd23ae1c9cc322bfd8e898699fbe8b013e34cbc)**
+   - Additions: 232 - Deletions: 216 - Total Changes: 448
 
-- **AdventOfCode - [Update trigger.yml](https://github.com/renerod1/AdventOfCode/commit/bf7882ca73ad8317a3d2dd84db1d1dca6595e306)**
-   - Additions: 3 - Deletions: 0 - Total Changes: 3
+- **profile-data-gen - [feat(actions.yml): added trigger to actions.yml](https://github.com/renerod1/profile-data-gen/commit/f23d32786fb46e0023a8f076beefe673074a6764)**
+   - Additions: 5 - Deletions: 0 - Total Changes: 5
 
 ## 🔀 Recently Merged Pull Requests
 
