@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-06 via [GitHub Action 12195545361](https://github.com/renerod1/renerod1/actions/runs/12195545361)
+### Data last generated on: 2024-12-06 via [GitHub Action 12199363367](https://github.com/renerod1/renerod1/actions/runs/12199363367)
 
 
 ## 🚀 Recent Commits
+
+- **midjourney-image-previewer - [ci(trigger.yml): added trigger to update Profile README.md file in profile repo](https://github.com/renerod1/midjourney-image-previewer/commit/0a207585733734e368e9f47f05a86819e9bd284d)**
+   - Additions: 28 - Deletions: 0 - Total Changes: 28
 
 - **profile-data-gen - [chore: graph text was increased to be more readable](https://github.com/renerod1/profile-data-gen/commit/36e4672508a875980186e110cfc22a7e79600b6c)**
    - Additions: 8 - Deletions: 8 - Total Changes: 16
 
 - **profile-data-gen - [fix: moved the workflow files to a seperate folder so they would not trigger during updates](https://github.com/renerod1/profile-data-gen/commit/9af4e3ba97114011eef808a0dfdc48a21e0e861c)**
    - Additions: 0 - Deletions: 0 - Total Changes: 0
-
-- **profile-data-gen - [refactor: needed to 'rebuild' the graphQL interfaces](https://github.com/renerod1/profile-data-gen/commit/ddd23ae1c9cc322bfd8e898699fbe8b013e34cbc)**
-   - Additions: 232 - Deletions: 216 - Total Changes: 448
 
 ## 🔀 Recently Merged Pull Requests
 
