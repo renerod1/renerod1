@@ -27,19 +27,21 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-14 via [GitHub Action 12328623757](https://github.com/renerod1/renerod1/actions/runs/12328623757)
+### Data last generated on: 2024-12-14 via [GitHub Action 12328679208](https://github.com/renerod1/renerod1/actions/runs/12328679208)
 
 
 ## 🚀 Recent Commits
+
+- **AdventOfCode - [Merge pull request #1 from renerod1/dependabot/maven/2023/day01/Java/adventofcode/maven-69bc76916c
+
+Bump the maven group across 4 directories with 1 update](https://github.com/renerod1/AdventOfCode/commit/e2c36c1518bc02cdd9b4860c1687a995a0647202)**
+   - Additions: 4 - Deletions: 4 - Total Changes: 8
 
 - **AdventOfCode - [Merge branch 'main' of https://github.com/renerod1/AdventOfCode](https://github.com/renerod1/AdventOfCode/commit/e24470eec6277d2c6d7a42d07fe48e909705bb91)**
    - Additions: 4 - Deletions: 1 - Total Changes: 5
 
 - **AdventOfCode - [Completed Advent of Code - 2024 Day 1 Part 2](https://github.com/renerod1/AdventOfCode/commit/1615e8481c82b5b4bf2eabecd120b0aa4c117212)**
    - Additions: 60 - Deletions: 3 - Total Changes: 63
-
-- **midjourney-image-previewer - [feat: added lightbox and increased batchsize for imagecard and imagegrid](https://github.com/renerod1/midjourney-image-previewer/commit/da04532261f06407fa2d9a7c17586ca0f80f8308)**
-   - Additions: 4774 - Deletions: 1714 - Total Changes: 6488
 
 ## 🔀 Recently Merged Pull Requests
 
