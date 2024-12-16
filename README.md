@@ -27,21 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-14 via [GitHub Action 12328679208](https://github.com/renerod1/renerod1/actions/runs/12328679208)
+### Data last generated on: 2024-12-16 via [GitHub Action 12362393045](https://github.com/renerod1/renerod1/actions/runs/12362393045)
 
 
 ## 🚀 Recent Commits
 
-- **AdventOfCode - [Merge pull request #1 from renerod1/dependabot/maven/2023/day01/Java/adventofcode/maven-69bc76916c
+- **AdventOfCode - [Completed Advent of Code - 2024 Day 2 Part 1](https://github.com/renerod1/AdventOfCode/commit/9f2cdc7a593ecc27245aea73ad1e0c9eb5a0bf9f)**
+   - Additions: 1195 - Deletions: 0 - Total Changes: 1195
 
-Bump the maven group across 4 directories with 1 update](https://github.com/renerod1/AdventOfCode/commit/e2c36c1518bc02cdd9b4860c1687a995a0647202)**
+- **AdventOfCode - [Merge branch 'main' of https://github.com/renerod1/AdventOfCode](https://github.com/renerod1/AdventOfCode/commit/92aa82c358c59091fcf5907b75b9034db7fdf6dc)**
    - Additions: 4 - Deletions: 4 - Total Changes: 8
 
-- **AdventOfCode - [Merge branch 'main' of https://github.com/renerod1/AdventOfCode](https://github.com/renerod1/AdventOfCode/commit/e24470eec6277d2c6d7a42d07fe48e909705bb91)**
-   - Additions: 4 - Deletions: 1 - Total Changes: 5
-
-- **AdventOfCode - [Completed Advent of Code - 2024 Day 1 Part 2](https://github.com/renerod1/AdventOfCode/commit/1615e8481c82b5b4bf2eabecd120b0aa4c117212)**
-   - Additions: 60 - Deletions: 3 - Total Changes: 63
+- **AdventOfCode - [Update .gitattributes](https://github.com/renerod1/AdventOfCode/commit/e46225f62bc49a250f1b7cb18e13c3c6494e9c59)**
+   - Additions: 2 - Deletions: 1 - Total Changes: 3
 
 ## 🔀 Recently Merged Pull Requests
 
