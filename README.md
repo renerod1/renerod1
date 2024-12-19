@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-18 via [GitHub Action 12387783188](https://github.com/renerod1/renerod1/actions/runs/12387783188)
+### Data last generated on: 2024-12-19 via [GitHub Action 12411949001](https://github.com/renerod1/renerod1/actions/runs/12411949001)
 
 
 ## 🚀 Recent Commits
 
+- **AdventOfCode - [Reorganized the file structure](https://github.com/renerod1/AdventOfCode/commit/dbf47f193ec7f70c860cf64ed126938a545c2bae)**
+   - Additions: 28 - Deletions: 37 - Total Changes: 65
+
+- **AdventOfCode - [Update](https://github.com/renerod1/AdventOfCode/commit/08bb3b9ca711836eea51ae9d69f3bdabc56c0314)**
+   - Additions: 1 - Deletions: 1 - Total Changes: 2
+
 - **AdventOfCode - [Completed Advent of Code - 2024 Day 2 Part 2](https://github.com/renerod1/AdventOfCode/commit/47b173f2a77a0b153778b5d15e8363ee63d2dd9c)**
    - Additions: 110 - Deletions: 10 - Total Changes: 120
-
-- **AdventOfCode - [Cleanup](https://github.com/renerod1/AdventOfCode/commit/0065b507de87b2d35f03a9de1eb8a5893379faf9)**
-   - Additions: 8 - Deletions: 6 - Total Changes: 14
-
-- **AdventOfCode - [Completed Advent of Code - 2024 Day 2 Part 1](https://github.com/renerod1/AdventOfCode/commit/9f2cdc7a593ecc27245aea73ad1e0c9eb5a0bf9f)**
-   - Additions: 1195 - Deletions: 0 - Total Changes: 1195
 
 ## 🔀 Recently Merged Pull Requests
 
