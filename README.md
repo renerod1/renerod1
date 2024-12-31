@@ -27,19 +27,23 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-19 via [GitHub Action 12411949001](https://github.com/renerod1/renerod1/actions/runs/12411949001)
+### Data last generated on: 2024-12-31 via [GitHub Action 12565066787](https://github.com/renerod1/renerod1/actions/runs/12565066787)
 
 
 ## 🚀 Recent Commits
 
+- **midjourney-image-previewer - [Merge pull request #13 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-af93afb32e
+
+build(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/midjourney-image-previewer/commit/5fe487bbe7393a0b5e256819851379a37daf796f)**
+   - Additions: 1680 - Deletions: 4674 - Total Changes: 6354
+
+- **preact-ts-vite-template - [Merge pull request #1 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-af93afb32e
+
+chore(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/preact-ts-vite-template/commit/31dd8cab2bb785df0da7009d4ab7f4c631a23fbe)**
+   - Additions: 4 - Deletions: 4 - Total Changes: 8
+
 - **AdventOfCode - [Reorganized the file structure](https://github.com/renerod1/AdventOfCode/commit/dbf47f193ec7f70c860cf64ed126938a545c2bae)**
    - Additions: 28 - Deletions: 37 - Total Changes: 65
-
-- **AdventOfCode - [Update](https://github.com/renerod1/AdventOfCode/commit/08bb3b9ca711836eea51ae9d69f3bdabc56c0314)**
-   - Additions: 1 - Deletions: 1 - Total Changes: 2
-
-- **AdventOfCode - [Completed Advent of Code - 2024 Day 2 Part 2](https://github.com/renerod1/AdventOfCode/commit/47b173f2a77a0b153778b5d15e8363ee63d2dd9c)**
-   - Additions: 110 - Deletions: 10 - Total Changes: 120
 
 ## 🔀 Recently Merged Pull Requests
 
