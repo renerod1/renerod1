@@ -27,35 +27,31 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2024-12-31 via [GitHub Action 12565066787](https://github.com/renerod1/renerod1/actions/runs/12565066787)
+### Data last generated on: 2025-01-17 via [GitHub Action 12822445354](https://github.com/renerod1/renerod1/actions/runs/12822445354)
 
 
 ## 🚀 Recent Commits
 
-- **midjourney-image-previewer - [Merge pull request #13 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-af93afb32e
+- **Codewars - [Added trigger.yml](https://github.com/renerod1/Codewars/commit/5a7ffe5a0028c880aa3147b5f734301ec453ffa8)**
+   - Additions: 31 - Deletions: 2 - Total Changes: 33
 
-build(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/midjourney-image-previewer/commit/5fe487bbe7393a0b5e256819851379a37daf796f)**
-   - Additions: 1680 - Deletions: 4674 - Total Changes: 6354
+- **LeetCode - [Added trigger.yml](https://github.com/renerod1/LeetCode/commit/7817d53b129c402ae4cc7e44756b071459733ce3)**
+   - Additions: 79 - Deletions: 2 - Total Changes: 81
 
-- **preact-ts-vite-template - [Merge pull request #1 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-af93afb32e
-
-chore(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/preact-ts-vite-template/commit/31dd8cab2bb785df0da7009d4ab7f4c631a23fbe)**
-   - Additions: 4 - Deletions: 4 - Total Changes: 8
-
-- **AdventOfCode - [Reorganized the file structure](https://github.com/renerod1/AdventOfCode/commit/dbf47f193ec7f70c860cf64ed126938a545c2bae)**
-   - Additions: 28 - Deletions: 37 - Total Changes: 65
+- **profile-data-gen - [chore: updated pnpm packages](https://github.com/renerod1/profile-data-gen/commit/00df279f0d7a25cabfa802c3a60b8d2f0f6fad88)**
+   - Additions: 1636 - Deletions: 3482 - Total Changes: 5118
 
 ## 🔀 Recently Merged Pull Requests
+
+- **[Enable automated profile updates when pushing a remote repository](https://github.com/sockheadrps/PyProfileDataGen/pull/14)**
+   - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+   - Stars: 9
 
 - **[fix(midjourney): fixed onClick of the Submit button](https://github.com/renerod1/midjourney-image-previewer/pull/12)**
    - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
    - Stars: 0
 
 - **[feat: switch UI to use cards for cleaner look and feel](https://github.com/renerod1/midjourney-image-previewer/pull/10)**
-   - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
-   - Stars: 0
-
-- **[fix: improved performance and fix some UI bugs](https://github.com/renerod1/midjourney-image-previewer/pull/9)**
    - Repository: [midjourney-image-previewer](https://github.com/renerod1/midjourney-image-previewer)
    - Stars: 0
 
