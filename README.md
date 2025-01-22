@@ -27,19 +27,38 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2025-01-17 via [GitHub Action 12822445354](https://github.com/renerod1/renerod1/actions/runs/12822445354)
+### Data last generated on: 2025-01-22 via [GitHub Action 12912338045](https://github.com/renerod1/renerod1/actions/runs/12912338045)
 
 
 ## 🚀 Recent Commits
 
+- **midjourney-image-previewer - [Merge pull request #14 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-f25c717a0f
+
+build(deps-dev): bump vite from 5.4.11 to 5.4.12 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/midjourney-image-previewer/commit/0d8f6e8b4c4539fb9d240dc1af018e9541640248)**
+   - Additions: 110 - Deletions: 101 - Total Changes: 211
+
+- **midjourney-image-previewer - [build(deps-dev): bump vite in the npm_and_yarn group across 1 directory
+
+Bumps the npm_and_yarn group with 1 update in the / directory: [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite).
+
+
+Updates `vite` from 5.4.11 to 5.4.12
+- [Release notes](https://github.com/vitejs/vite/releases)
+- [Changelog](https://github.com/vitejs/vite/blob/v5.4.12/packages/vite/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite/commits/v5.4.12/packages/vite)
+
+---
+updated-dependencies:
+- dependency-name: vite
+  dependency-type: direct:development
+  dependency-group: npm_and_yarn
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>](https://github.com/renerod1/midjourney-image-previewer/commit/29dd4b649ab9d405fb075e6d18beb4d902c193bb)**
+   - Additions: 110 - Deletions: 101 - Total Changes: 211
+
 - **Codewars - [Added trigger.yml](https://github.com/renerod1/Codewars/commit/5a7ffe5a0028c880aa3147b5f734301ec453ffa8)**
    - Additions: 31 - Deletions: 2 - Total Changes: 33
-
-- **LeetCode - [Added trigger.yml](https://github.com/renerod1/LeetCode/commit/7817d53b129c402ae4cc7e44756b071459733ce3)**
-   - Additions: 79 - Deletions: 2 - Total Changes: 81
-
-- **profile-data-gen - [chore: updated pnpm packages](https://github.com/renerod1/profile-data-gen/commit/00df279f0d7a25cabfa802c3a60b8d2f0f6fad88)**
-   - Additions: 1636 - Deletions: 3482 - Total Changes: 5118
 
 ## 🔀 Recently Merged Pull Requests
 
