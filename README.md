@@ -27,21 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2025-07-26 via [GitHub Action 16544940761](https://github.com/renerod1/renerod1/actions/runs/16544940761)
+### Data last generated on: 2025-07-28 via [GitHub Action 16561990331](https://github.com/renerod1/renerod1/actions/runs/16561990331)
 
 
 ## 🚀 Recent Commits
+
+- **LeetCode - [Actually did a binary search to solve the problem](https://github.com/renerod1/LeetCode/commit/417f13587a5a3b332ad2424f9a88ab417cba6987)**
+   - Additions: 16 - Deletions: 5 - Total Changes: 21
 
 - **LeetCode - [LeetCode problem 704](https://github.com/renerod1/LeetCode/commit/5466a5ea5d57636b2e250e1d74a798a749a8ae88)**
    - Additions: 136 - Deletions: 0 - Total Changes: 136
 
 - **LeetCode - [Minor reorg](https://github.com/renerod1/LeetCode/commit/737f33785ab78484a303c8630520436d78b59522)**
    - Additions: 15 - Deletions: 15 - Total Changes: 30
-
-- **profile-data-gen - [Merge pull request #4 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-762d904987
-
-chore(deps): bump tar-fs from 2.1.2 to 2.1.3 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/profile-data-gen/commit/77ad60642c2e7d72af0cfd9306b60ee16301411a)**
-   - Additions: 8 - Deletions: 7 - Total Changes: 15
 
 ## 🔀 Recently Merged Pull Requests
 
