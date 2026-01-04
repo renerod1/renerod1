@@ -27,23 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### Data last generated on: 2025-12-18 via [GitHub Action 20352264141](https://github.com/renerod1/renerod1/actions/runs/20352264141)
+### Data last generated on: 2026-01-04 via [GitHub Action 20690219926](https://github.com/renerod1/renerod1/actions/runs/20690219926)
 
 
 ## 🚀 Recent Commits
 
+- **AdventOfCode - [Add test cases.](https://github.com/renerod1/AdventOfCode/commit/4a55980aed94b992b17b1802829e5b05f5028934)**
+   - Additions: 854 - Deletions: 616 - Total Changes: 1470
+
+- **AdventOfCode - [Completed Advent of Code - 2025 Day 2 Part 1](https://github.com/renerod1/AdventOfCode/commit/e7dfdedc411cff076c0253f2805923eb74a19197)**
+   - Additions: 210 - Deletions: 11 - Total Changes: 221
+
 - **AdventOfCode - [Completed Advent of Code - 2025 Day 1 Part 1 & Part 2](https://github.com/renerod1/AdventOfCode/commit/ad0d9938b819ae55c6122ee2d1cb590721b99b6a)**
    - Additions: 4484 - Deletions: 0 - Total Changes: 4484
-
-- **midjourney-image-previewer - [Merge pull request #18 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-762d904987
-
-build(deps): bump tar-fs from 2.1.2 to 2.1.3 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/midjourney-image-previewer/commit/dd120dc5b194738aef3982e91119d3fcff4755ea)**
-   - Additions: 4 - Deletions: 4 - Total Changes: 8
-
-- **profile-data-gen - [Merge pull request #6 from renerod1/dependabot/npm_and_yarn/npm_and_yarn-312bf181c4
-
-chore(deps): bump tar-fs from 2.1.3 to 2.1.4 in the npm_and_yarn group across 1 directory](https://github.com/renerod1/profile-data-gen/commit/3691c15554a99936645c42ddd256cb394f7ecec5)**
-   - Additions: 8 - Deletions: 7 - Total Changes: 15
 
 ## 🔀 Recently Merged Pull Requests
 
